@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories | Pa&#39;l Susto Vegan Bakery</title>
-    <link>https://veganpalsusto.co.uk/categories/</link>
-      <atom:link href="https://veganpalsusto.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://veganpalsusto.co.uk/media/sharing.png</url>
-      <title>Categories</title>
-      <link>https://veganpalsusto.co.uk/categories/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories | Pa'l Susto Vegan Bakery</title><link>https://veganpalsusto.co.uk/categories/</link><atom:link href="https://veganpalsusto.co.uk/categories/index.xml" rel="self" type="application/rss+xml"/><description>Categories</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://veganpalsusto.co.uk/media/sharing.png</url><title>Categories</title><link>https://veganpalsusto.co.uk/categories/</link></image></channel></rss>
